@@ -1,15 +1,15 @@
-<h1 align="center">Hi there! 👋</h1>
+<h1 align="center">Hi there!</h1>
 <h3 align="center">I'm a System Analyst</h3>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 💼 Specialized in system and business analysis, software architecture design, and integrations.
-- 📝 Experienced with analytical artifacts: **UML, BPMN, C4 Model, Use Cases, User Flows**.
-- ⚙️ Designing technical API contracts (**REST / OpenAPI 3.0+, SOAP / WSDL**) and relational databases.
+- Specialized in system and business analysis, software architecture design, and integrations.
+- Experienced with analytical artifacts: **UML, BPMN, C4 Model, Use Cases, User Flows**.
+- Designing technical API contracts (**REST / OpenAPI 3.0+, SOAP / WSDL**) and relational databases.
 
-### 🛠 Tech Stack & Tools
+### Tech Stack & Tools
 
 **Analysis & Architecture:**
 <br>
