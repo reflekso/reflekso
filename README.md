@@ -9,6 +9,10 @@
 - Experienced with analytical artifacts: **UML, BPMN, C4 Model, Use Cases, User Flows**.
 - Designing technical API contracts (**REST / OpenAPI 3.0+, SOAP / WSDL**) and relational databases.
 
+### Projects
+
+- [IT Helpdesk System](https://github.com/reflekso/it-helpdesk-system) : Full-cycle system analysis for an IT ticketing platform, covering requirements gathering, process modeling, C4 diagrams, REST API technical design, and database schema modeling.
+
 ### Tech Stack & Tools
 
 **Analysis & Architecture:**
