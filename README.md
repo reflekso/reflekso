@@ -21,7 +21,8 @@
 <img src="https://img.shields.io/badge/UML-005C9C?style=flat-square&logo=uml&logoColor=white" alt="UML" />
 <img src="https://img.shields.io/badge/C4_Model-1168BD?style=flat-square&logo=c4&logoColor=white" alt="C4 Model" />
 <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapi-initiative&logoColor=white" alt="OpenAPI" />
-<img src="https://img.shields.io/badge/SOAP-00599C?style=flat-square" alt="SOAP" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON" />
 
 **Databases & Modeling:**
 <br>
