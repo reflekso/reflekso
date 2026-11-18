@@ -12,6 +12,7 @@
 ### Projects
 
 - [IT Helpdesk System](https://github.com/reflekso/it-helpdesk-system) : Full-cycle system analysis for an IT ticketing platform, covering requirements gathering, process modeling, C4 diagrams, REST API technical design, and database schema modeling.
+- [WorkHub System](https://github.com/reflekso/workhub-system) : System analysis and feature enhancement design for a freelance marketplace platform, covering business context, technical requirements, PostgreSQL database updates, server logic, REST API methods with UML Sequence diagrams, and frontend integration.
 
 ### Tech Stack & Tools
 
