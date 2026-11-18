@@ -6,8 +6,8 @@
 ### About Me
 
 - Specialized in system and business analysis, software architecture design, and integrations.
-- Experienced with analytical artifacts: **UML, BPMN, C4 Model, Use Cases, User Flows**.
-- Designing technical API contracts (**REST / OpenAPI 3.0+, SOAP / WSDL**) and relational databases.
+- Experienced with analytical artifacts: **UML, BPMN, C4 Model, ERD, Use Cases, User Stories, User Flows**.
+- Designing technical API contracts (**REST / OpenAPI 3.0+**) and relational databases.
 
 ### Projects
 
